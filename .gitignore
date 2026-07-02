@@ -1,0 +1,51 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Global python/node ignores added by sync script
+.venv/
+venv/
+env/
+ENV/
+node_modules/
+.pytest_cache/
+.ipynb_checkpoints/
+.tmp/
+temp/
+tmp/
+
+# Databases & large files
+*.db
+*.sqlite
+*.sqlite3
+*.exe
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.pdf
+*.xlsx
+*.xls
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
+cookies.json
+cookies.txt
+
+# Common download/data directories
+downloads/
+downloaded_reports/
+data/
+pdfjs/
+google_colab/
+new chat/
